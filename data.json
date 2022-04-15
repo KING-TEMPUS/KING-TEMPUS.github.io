@@ -1,9 +1,9 @@
 [
-      { "title": "PC", "price": 150, "image": "./pictures/pc.item.jpg",   },
-      { "title": "Smartphone", "price": 50, "image": "./pictures/smartphone.item.jpg",  },
-      { "title": "Camera", "price": 350, "image": "./pictures/1936235.jpg", },
-      { "title": "Mouse", "price": 250, "image": "./pictures/50130916b.jpg", },
-      { "title": "Mat", "price": 250, "image": "./pictures/6061731185.jpg", },
-      { "title": "Keyboard", "price": 250, "image": "./pictures/logitech_mx_keys_advanced_wireless_illuminated_920_009417__1393071_1.jpg", }
+      { "title": "PC", "price": 150, "image": "./pictures/pc.item.jpg"   },
+      { "title": "Smartphone", "price": 50, "image": "./pictures/smartphone.item.jpg"  },
+      { "title": "Camera", "price": 350, "image": "./pictures/1936235.jpg" },
+      { "title": "Mouse", "price": 250, "image": "./pictures/50130916b.jpg" },
+      { "title": "Mat", "price": 250, "image": "./pictures/6061731185.jpg" },
+      { "title": "Keyboard", "price": 250, "image": "./pictures/logitech_mx_keys_advanced_wireless_illuminated_920_009417__1393071_1.jpg" }
       
 ]
